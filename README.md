@@ -1,3 +1,13 @@
+<h1 align="center">
+  <img alt="Letmeask" src="https://github.com/bomdiavei/Letmeask/blob/main/src/assets/images/logo.svg" width="160px">
+</h1>
+
+<p align="center">
+    <img alt="Letmeask" src="https://github.com/bomdiavei/Letmeask/blob/main/src/assets/images/letmeask.svg" />
+</p>
+
+<br>
+
 ## 🧪 Development
 
 This project was developed using:
